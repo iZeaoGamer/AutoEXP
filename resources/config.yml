@@ -18,6 +18,6 @@ worlds: ["all"]
 
 # Sovrascrive la bottiglia di esperienza di pocketmine in modo che quando la si utilizza l'esperienza vada direttamente nella barrra dell'esperienza del giocatore
 # Override pocketmine's xp botte so the xp goes directly into the player's xp bar
-override-experience-bottle: false
+override-experience-bottle: true
 
 ---
